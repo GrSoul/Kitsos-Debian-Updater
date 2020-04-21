@@ -8,11 +8,11 @@ Runinng it your system will update all packages (including snap and flatpak) and
 
 In terminal:
 
+```
 sudo -s
-
 mv update /usr/bin/
-
 chmod +x /usr/bin/update
+```
 
 ## Usage
 
