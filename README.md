@@ -6,7 +6,7 @@ Runinng it your system will update all packages (including snap and flatpak) and
 
 ## Installation
 
-In terminal:
+Download the file named "update". Open a terminal in the same folder and type:
 
 ```
 sudo -s
