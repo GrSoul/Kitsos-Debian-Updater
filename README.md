@@ -16,4 +16,8 @@ chmod +x /usr/bin/update
 
 ## Usage
 
-Just open a terminal and write the word "update".
+Just open a terminal and type 
+
+```
+update
+```
