@@ -1,8 +1,8 @@
 # Kitsos Debian Updater
 
-This is a very simple bash script to update your Debian-based computer (Ubuntu, Raspbian, etc.)
+This is a very simple bash script for updating your Debian-based computer (Ubuntu, Raspbian, etc.)
 
-Running it your system will update all packages (including snap and flatpak) and clean up the ones that are not needed anymore.
+By running it your system will update all packages (including snap and flatpak) and clean up the ones that are not needed anymore.
 
 ## Installation
 
